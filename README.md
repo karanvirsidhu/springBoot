@@ -1,4 +1,3 @@
-# hello-world-spring-4
-Hello World Example with Spring 4
+#Spring Dependency Injection and Active Profiles
 
-See more at springframework.guru
+Source code in this repo is to support my on line course for the Spring Framework. You can learn more about my course  [here](http://courses.springframework.guru/courses/spring-core/).
